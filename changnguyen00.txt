@@ -2,3 +2,4 @@ chang test ngay 03 - 02 -2023
 chang moi add them dong nay luc 11:39
 chang them dong nay luc 11h51 khong co space 192.168.2.202,192.168.2.106
 chang them dong nay luc 11h53 co space 192.168.2.202, 192.168.2.106
+chang add them 1 ip khong nam trong host all server 192.168.2.202, 192.168.2.106, 192.168.2.223
